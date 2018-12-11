@@ -1,0 +1,130 @@
+{
+  "administrator": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "email": "admin@peralatan_kantor.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nama_perusahaan": "PT.Sampoerna",
+      "contact_person": "Novianti",
+      "bagian": "purchase",
+      "alamat_perusahaan": "jl.Jend.Sudirman Kav 21",
+      "phone": "0215463782",
+      "username": "novia",
+      "password": "novianti225",
+      "email": "novianti@sampoerna.com"
+    },
+    {
+      "id": 2,
+      "nama_perusahaan": "PT.Parit Padang",
+      "contact_person": "Heru",
+      "bagian": "purchase",
+      "alamat_perusahaan": "jl.Sumur Bor Kav B.B3 ",
+      "phone": "0216497538",
+      "username": "heru",
+      "password": "pembelianalat",
+      "email": "heru@paritpadang.co.id"
+    },
+    {
+      "nama_perusahaan": "PT.APL",
+      "contact_person": "Ristanti",
+      "bagian": "pembelian",
+      "alamat_perusahaan": "jl.Senen Raya no 135 ",
+      "phone": "02135729864",
+      "username": "ristanti",
+      "email": "ristanti@apl.com",
+      "password": "apl321",
+      "id": 3
+    },
+    {  
+      "nama_perusahaan": "PT.Indocement",
+      "contact_person": "Wati Puspa",
+      "bagian": "purchase",
+      "alamat_perusahaan": "jl.Jend.Sudirman Kav.21 ",
+      "username": "wati",
+      "email": "wati@indocement.co.id",
+      "password": "indocement567",
+      "phone": "085721637152",
+      "id": 4
+    }
+  ],
+  "popok": [
+    {
+      "id": 1,
+      "nama": "Kursi Kantor",
+      "merk": "informa",
+      "description": "Kursi Kantor Putar",
+      "harga": 500000,
+      "img": "https://jakmall.id/2017/12/images/products/583350/detail/highpoint-kursi-kantor-fargo-far001.jpg?s=f069f31434afc984837cbae4456151bd"
+    },
+    {
+      "id": 2,
+      "nama": "Kertas A4",
+      "merk": "Paper One",
+      "description": "Kertas A4 1 Rim",
+      "harga": 100000,
+      "img": "https://ecs7.tokopedia.net/img/product-1/2016/1/18/6428503/6428503_b8aa34c0-e4a2-42ad-9834-a781bd42f6cf.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Meja Kantor",
+      "merk": "informa",
+      "description": "Meja Kantor Minimalis",
+      "harga": 800000,
+      "img": "https://edesainminimalis.com/wp-content/uploads/Meja-Kerja-Kantor-Minimalis.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Papan Tulis",
+      "merk": "informa",
+      "description": "White Board ukuran 90 x 180 cm",
+      "harga": 350000,
+      "img": "https://rukminim1.flixcart.com/image/832/832/jb890nk0/whiteboard-duster/d/x/c/wb1-5-whiteboards-lipikaecom-original-imaehh6thzvwjeau.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "nama": "Kertas HVS",
+      "merk": "Paper One",
+      "description": "Kertas HVS 1 Rim",
+      "harga": 90000,
+      "img": "https://s3.bukalapak.com/img/894416939/w-1000/500_lembar_1_rim_kertas_HVS_A4_70_gram_Paperone_atk_alat_tul.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Printer Laser",
+      "merk": "Brother",
+      "description": "Brother Mono Laser Printer HL-L2305W",
+      "harga": 2000000,
+      "img": "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BRHLL2305_brother_mono_laser_printer_hl_l2305w.jpg/resize?size=300&auth=MjA5OTcwODkwMg__Q"
+    },
+    {
+      "id": 7,
+      "nama": "Buku Log",
+      "merk": "PaperOne",
+      "description": "Buku Log Panjang",
+      "harga": 10000,
+      "img": "http://4.bp.blogspot.com/_NNJmEI_dB-4/SVXTTuK2NCI/AAAAAAAAATQ/6orPEtdniSg/s400/Buku+Log+3.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Mesin Fax",
+      "merk": "Brother",
+      "description": "Brother FAX-2840 High Speed Mono Laser Fax Machine",
+      "harga": 3000000,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81PWwHGBDQL._SX355_.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Tinta Printer",
+      "merk": "Brother",
+      "description": "BROTHER TINTA REFILLBOTOL BT5000CMY ORIGINALDCP-T300",
+      "harga": 350000,
+      "img": "https://ecs7.tokopedia.net/img/product-1/2016/11/6/12824304/12824304_72cd4967-ca58-4169-a563-e0e2568ebcad.jpg"
+    }
+  ]
+}
